@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="logo-container">
-        <Image src="./assets/name.png" fluid />
+        <Image className="center-fit" src="./assets/name.png" />
       </div>
     </div>
   );
